@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A960F6&width=435&lines=Welcome+to+my+GitHub!;Python+%26+Pytest+Learner;%E4%BA%8C%E6%AC%A1%E5%85%83%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+  </a>
+</p>
 <h1 align="center">Hi there, I'm SLMit3uri 👋</h1>
 
 <h3 align="left">研究室试管清洗专员一枚 🧪</h3>
