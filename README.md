@@ -4,8 +4,8 @@
 
 - 🔭 我目前正在捣鼓：**Git** 
 - 🌱 我目前正在学习：**Python 自动化与测试**
-- 💬 可以问我关于：**Python、Java、B站脚本**
-- ⚡ 有趣的事：每天都在努力成为更好的自己！
+- 💬 可以问我关于：**Python、Java、脚本**
+- ⚡ 有趣的事：预转正！
 
 ---
 
@@ -20,5 +20,5 @@
 
 ### 🛠 正在开发 & 折腾的项目
 
-- [x] [python-pytest-basics](https://github.com/SLMit3uri/python-pytest-basics) - Python + pytest 
+- [x] 
 - [ ] 更多有趣的项目正在路上...
