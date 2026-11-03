@@ -12,8 +12,8 @@
 ### 📊 我的 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLMit3uri&show_icons=true&theme=tokyonight" alt="SLMit3uri's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLMit3uri&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://gh-proxy.com/https://github-readme-stats.vercel.app/api?username=SLMit3uri&show_icons=true&theme=tokyonight" alt="SLMit3uri's GitHub stats" />
+  <img src="https://gh-proxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=SLMit3uri&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
